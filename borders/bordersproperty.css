@@ -1,6 +1,5 @@
 p.pro {
-  border-left: 6px solid red;
-  background-color: lightgrey;
+    border: 5px solid red;
 }
 
 p.left {

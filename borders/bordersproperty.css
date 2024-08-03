@@ -1,0 +1,9 @@
+p {
+  border-left: 6px solid red;
+  background-color: lightgrey;
+}
+
+p.left {
+  border-left: 6px solid red;
+  background-color: lightgrey;
+}

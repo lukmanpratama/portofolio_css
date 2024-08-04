@@ -1,0 +1,10 @@
+div {
+  border: 1px solid black;
+  padding: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+
+/*top padding is 25px
+right padding is 50px
+bottom padding is 75px
+left padding is 100px*/

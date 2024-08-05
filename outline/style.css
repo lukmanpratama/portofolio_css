@@ -1,7 +1,13 @@
 p {
   outline-color: red;
 }
-
+p.outline {
+  border: 2px solid black;
+  outline: #4caf50 solid 10px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
 p.dotted {
   outline-style: dotted;
 }

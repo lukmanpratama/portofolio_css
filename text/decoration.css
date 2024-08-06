@@ -43,7 +43,12 @@ p.ex5 {
   text-decoration-thickness: auto; /* this is default */
 }
 
-p.ex6    {
+p.ex6 {
   text-decoration-line: underline;
   text-decoration-thickness: 5px; /* this is default */
+}
+
+p.ex7 {
+  text-decoration-line: underline;
+  text-decoration-thickness: 25%; /* this is default */
 }

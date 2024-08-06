@@ -52,3 +52,7 @@ p.ex7 {
   text-decoration-line: underline;
   text-decoration-thickness: 25%; /* this is default */
 }
+
+p {
+    text-decoration: underline red double 5px;
+  }

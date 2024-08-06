@@ -13,3 +13,11 @@ ol.c {
 ol.d {
   list-style-type: lower-alpha;
 }
+
+ul.e {
+    list-style-position: outside;
+  }
+  
+  ul.f {
+    list-style-position: inside;
+  }

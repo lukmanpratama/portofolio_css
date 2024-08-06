@@ -9,3 +9,15 @@ h2 {
 h3 {
   text-align: right;
 }
+
+h1.justify {
+  text-align: left;
+}
+
+div {
+  border: 1px solid black;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  text-align: justify;
+}

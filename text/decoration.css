@@ -45,5 +45,5 @@ p.ex5 {
 
 p.ex6    {
   text-decoration-line: underline;
-  text-decoration-thickness: auto; /* this is default */
+  text-decoration-thickness: 5px; /* this is default */
 }

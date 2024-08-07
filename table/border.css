@@ -3,6 +3,18 @@ th,
 td {
   border: 1px solid;
 }
+
 #collapse {
-    border-collapse: collapse;
+  border-collapse: collapse;
+}
+
+#hover {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#hover td, #hover th {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
 }
